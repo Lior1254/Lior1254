@@ -8,9 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Lior1254&label=Profile%20views&color=0e75b6&style=flat)
 
 
-=======
 ## 🙋‍♂️ About Me
->>>>>>> d3346911a42ce43fbacd160dfcc4f483b1b0f2fe
 
 I'm a high school student specializing in computer science and software engineering.  
 I'm also an active participant in the "Magshimim" cyber program.  
