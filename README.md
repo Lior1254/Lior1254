@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">I'm a high school student specializing in computer science and software engineering.  <br>I'm also an active participant in the "Magshimim" cyber program.  <br>Curious, responsible, and highly motivated to learn, build, and grow.<br><br>📝 [Check out my resume](https://www.canva.com/design/DAGm3nxwHhY/_TXOAwoXo0jV5ABqguXQTQ/edit)<br><br>
+<p align="left">I'm a high school student specializing in computer science and software engineering.  <br>I'm also an active participant in the "Magshimim" cyber program.  <br>Curious, responsible, and highly motivated to learn, build, and grow.<br><br>📝 
+[Check out my resume](https://github.com/Lior1254/Lior1254/raw/main/assets/LiorShemTov_CV_Resume.pdf)
 ### 💻 Languages & Skills<br>- Programming: C, C++, Python, Java, C#, Assembly<br>- Databases: SQLite, Firebase<br>- Systems: Linux, Windows<br><br>
 ### 🌱 Currently Learning<br>- Reverse engineering<br>- Cybersecurity principles<br>- Advanced C and Python development<br><br>
 ### 📫 Contact Me<br>- Email: liorshemtov2008@gmail.com</p>
